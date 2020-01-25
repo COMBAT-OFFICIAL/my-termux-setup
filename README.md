@@ -45,7 +45,7 @@ pkg install wget
 ### Python2
 
 ```bash
-pkg Install python2
+pkg install python2
 ```
 
 ### Python3
